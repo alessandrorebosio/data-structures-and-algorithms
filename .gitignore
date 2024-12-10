@@ -1,0 +1,8 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Visual Studio Code configuration folder
+.vscode/
+
+# Ignore the bin directory in the root of the project (contains compiled or temporary files)
+**/bin
