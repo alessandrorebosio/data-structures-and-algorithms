@@ -1,4 +1,4 @@
-# Algorithms and Data Structures - Overview
+# Algorithms and Data Structures - Project
 
 **11929 - Academic Year 2023/24, Bachelor's Degree in Computer Science and Engineering, University of Bologna - Cesena Campus**  
 - **Instructors**: Professors Vittorio Maniezzo, Moreno Marzolla 
